@@ -41,7 +41,7 @@ Drafting your algorithm helps you to have a clear understanding of how your prog
 
 Below is a draft of how your algorithm will be:
 
-![The code](
+![The code](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipNsSYINGgWcn2Mf6v_2NCHpXR6aysdoWMm1Z1oL)
 
 From the above, you can now have a clear understanding of how our game will look and how it will go. 
 
@@ -58,19 +58,11 @@ Data can be passed into a function as parameters. A function can return data as 
 
 In this step, our codes will be broken down and taken one at a time to help you understand it more.
 
-
-
-
-
-
-
-
-
+![Diagram 1](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipMAy9cOrBVP_qka-TqlekKNAcxtfRs21jaEov7Y)
 
 Above, we have invoked the print function. The print function prints out the specified message into the screen. It gives you what you feed into it. It works along with a pair of parenthesis () and quotation marks (“”).
 
-
-
+![Diagram 2](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipPhg6zdkpx_B3nYuLHPHOBJ4vvY20DlfSgmysvM)
 
 Here, we made use of a variable and we also invoked the input function.
 
@@ -82,7 +74,7 @@ From the above, the user is prompted to either pick left or right, so the input(
 
 The .lower() function invoked helps to keep all the answers in lower case, this is because the options (left or right) are in lower cases and a user might capitalize the first word or the entire word. In Python, those are two different options.
 
-
+![Diagram 3](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipM1n5bb0y-TIxEvYuORigihRzIGpXsbq6yD6XPz)
 
 
 Here, we made use of the “if” statement which is a conditional statement that is used to determine whether a block of code will be executed or not. This means if the program finds the condition defined to be true, it will go ahead and execute the code block inside the if statement. 
@@ -90,7 +82,7 @@ Here, we made use of the “if” statement which is a conditional statement tha
 Here the code block inside the “if” statement is print() function, therefore if it finds the condition true, it’ll go ahead and print out the code block. 
 
 
-
+![Diagram 4](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipMk34iM-C5ygeJzUtV23Emc3n_HZ9E8h8hPJtHs)
 
 
 Above it can be seen that we made use of an elif statement which is a short for else if and it is used when the first “if” statement used is not true but then you want to check for another condition. 
@@ -99,7 +91,7 @@ Above it can be seen that we made use of an elif statement which is a short for 
 
 From the above, if the “elif” statement is true, the code block embedded inside it will be executed. 
 
-
+![Diagram 5](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipOmPbJg07__uVTQkuaSIk6FmA-HcTh6u50hazKB)
 
 
 Here, we made use of the “else” statement which means, when the “if” statement and “elif” statement is false, the code block embedded in the “else” statement will be executed. 
@@ -107,7 +99,7 @@ Here, we made use of the “else” statement which means, when the “if” sta
 From our algorithm, it can be said to be our “or anything else” option.
 
 
-
+![Diagram 6](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipO9lnIBnHwRAaT9a4U9bA1bdCPJtoLOz88-rRzJ)
 
 
 This should be more familiar now as we’ve made use of a variable and an input earlier on in this lesson. 
@@ -117,7 +109,7 @@ So here the variable “answer2” and an input() function was invoked.
 It is worthy to note that we are working with our algorithm to create the game. 
 
 
-
+![Diagram 7](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipOMXO52_jbZT2Po0g2Uz1IjEhJezlZGcMf8w7rh)
 
 
 Just like the other “if” statement previously used, this is a conditional statement that only runs when the condition in it is met. 
@@ -125,19 +117,19 @@ Just like the other “if” statement previously used, this is a conditional st
 Here, the “if” statement will only be executed if the user chooses “swim” in the input() function invoked.
 
 
-
+![Diagram 8](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipMdMdZfGBxvTE4J09CKduG2JlqIgDOonpzrEtLR)
 
 
 The “elif” statement is being used again. It works just like the one first used, the only difference are the parameters used in them.
 
 
-
+![Diagram 9](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipP9JzU1YrCKhCcJOAnH1u0I9SV7djYWeID3h8Ak)
 
 
 The “else” statement is used here, we’ve come across this already so we know it’s a conditional statement that runs only when the conditions in the “if” and “elif” statements are not met.
 
 
-
+![Diagram 10](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipMf0_6io-2TLOS9djE2RZjrvjvfvt0912dm44x7)
 
 
 We have come across variable and input() functions multiple times so we should be familiar with their functions and how they work. 
@@ -145,19 +137,19 @@ We have come across variable and input() functions multiple times so we should b
 In this particular input() function, we have three conditions. 
 
 
-
+![Diagram 11](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipPTBIZna2hOsy272mCbkL0NKO9YpJmNmglqbEee)
 
 
 Here we are saying if the condition is true then the code block should be executed.
 
 
-
+![Diagram 12](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipM29-fH3bU3vcitJTx0551g6oaLuidneaZlQbRM)
 
 
 If the “if” statement above is false, then the program proceeds to the next line of code which is the “elif” statement. If the “elif” statement is true then the code block will be executed.
 
 
-
+![Diagram 13](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipPyuj0O3PRw2LcugSOB-u2-apUeYRczLgori3LW)
 
 
 If the condition of this “elif” statement is met, it will be executed.
@@ -165,7 +157,7 @@ If the condition of this “elif” statement is met, it will be executed.
 If you notice, this is our second “elif” statement used along with the “if” statement, we can have multiple “elif” statements and only one “else” statement inside an “if” statement.
 
 
-
+![Diagram 14](https://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipP5hhZMKyiw7lDfp1RmJjTUnn4sSNk8DUdLPDpMhttps://photos.google.com/album/AF1QipO6G6PE-3w3vwM9XVrHJbc3y0aC5jC3YSskrh7R/photo/AF1QipP5hhZMKyiw7lDfp1RmJjTUnn4sSNk8DUdLPDpM)
 
 
 From the above, when all the other conditions are not met then the “else” statement is executed.
